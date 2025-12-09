@@ -1,5 +1,5 @@
 
- # Importing and Running a Nextflow Workflow on Lifebit CloudOS"
+ # Importing and Running a Nextflow Workflow on Lifebit CloudOS
 
 
 # 1. Prerequisites
