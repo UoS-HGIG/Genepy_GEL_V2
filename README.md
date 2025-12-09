@@ -1,9 +1,6 @@
 
----
-title: "Manual: Importing and Running a Nextflow Workflow on Lifebit CloudOS"
-author: "Iman nazari"
-output: html_document
----
+ Importing and Running a Nextflow Workflow on Lifebit CloudOS"
+
 
 # 1. Prerequisites
 
